@@ -119,9 +119,9 @@ const Index = () => (
           <Title>// Get in touch --></Title>
           <ContactText>
             Say <a href="mailto:botello.nadia.g@gmail.com">Hello</a>, check out my {' '}
-            <a href="http://github.com/nadiabotello">Resume</a>, and find me on {' '}
-            <a href="http://github.com/nadiabotello">Github</a>, {' '}
-            <a href="http://www.linkedin.com/in/nadiabotello">Linked.In</a>, or at
+            <a href="http://github.com/nadiabotello"> Dev Resume</a>, find me on {' '}
+            <a href="http://github.com/nadiabotello">Github</a> and {' '}
+            <a href="http://www.linkedin.com/in/nadiabotello">Linked.In</a>, or see more of my work at
             {' '} <a href="http://nadiabotello.com/">nadiabotello.com</a>.
           </ContactText>
         </Inner>
