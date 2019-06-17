@@ -5,7 +5,7 @@ ghpages.publish(
   'public',
   {
     branch: 'test-production-build',
-    repo: 'https://github.com/nadiabotello/nadiabotello.github.io.git',
+    repo: 'https://github.com/nadiabotello/personal-site.git',
   },
   () => {
     console.log('Deploy Complete!')
