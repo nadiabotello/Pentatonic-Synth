@@ -6,4 +6,4 @@ to change the octave of the note palette.
 
 <em>Mouse click to start/on and stop/off.</em>
 
-<img src="https://files.cargocollective.com/c66352/Screen-Shot-2019-06-20-at-7.23.06-PM.png">
+<a href="https://nadiabotello.github.io/Pentatonic-Synth/">
